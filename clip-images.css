@@ -1,6 +1,8 @@
 
 .clip-me { 
 
+  /*  <img class="clip-me" src="thing-to-be-clipped.png">  LA IMAGEN TENDRIA ESTA CLASE clip-me */
+
   /* referencing path from an inline SVG <clipPath> */
   clip-path: url(#c1); 
 
