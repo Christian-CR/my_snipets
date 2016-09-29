@@ -2,7 +2,6 @@
 /* CSS Document */
 
 @media only screen and (min-width: 1201px) {
-.estira{width:1000px; height:400px; background:#FF3;}
 	
 }
 @media only screen and (max-width: 1200px) {
@@ -10,16 +9,13 @@
 	
 }
 @media only screen and (max-width: 992px) {
-.estira{width:950px; background:#096; height:400px; }
 	
 }
 @media only screen and (max-width: 768px) {
-.estira{width:700px; background:#909; height:400px; }
 	
 }
-
 @media only screen and (max-width: 480px){
-	.estira{width:700px; background:#909; height:400px; }
+
 }
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen 
