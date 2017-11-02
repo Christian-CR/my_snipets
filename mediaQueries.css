@@ -22,6 +22,12 @@
 @media only screen and (max-width: 320px){
 
 }
+
+/* Iphone 6  */
+@media screen and (max-device-width: 414px) and (max-device-height: 776px) {
+    /* Insert styles here */
+}
+
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen 
 and (min-device-width : 320px) 
