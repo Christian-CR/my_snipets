@@ -1,0 +1,8 @@
+.border{
+
+    border: solid 4px #743ad5;
+    border-image: linear-gradient(to right, #313ef7 0%,#5af230 18%,#f1ff30 34%,#ffb732 49%,#ff3232 69%,#f7319b 82%,#970fff 100%);
+    border-image-slice: 1;
+    border-width: 5px;
+
+}
