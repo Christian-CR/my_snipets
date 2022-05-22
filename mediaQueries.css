@@ -23,6 +23,28 @@
 
 }
 
+/* MObile first */
+@media only screen and (min-width: 320px){
+
+}
+@media only screen and (min-width: 480px){
+
+}
+@media only screen and (min-width: 768px) {
+	
+}
+@media only screen and (min-width: 992px) {
+	
+}
+@media only screen and (min-width: 1024px) { // Laptop
+	
+}
+@media only screen and (min-width: 1440px) { // Laptop L
+	
+}
+
+
+
 /* Iphone 6  */
 @media screen and (max-device-width: 414px) and (max-device-height: 776px) {
     /* Insert styles here */
